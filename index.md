@@ -43,7 +43,8 @@ Mes projets portent principalement sur l’exploration de données, la construct
 ### Analyse exploratoire de données – Netflix
 Analyse d’un jeu de données Netflix visant à identifier des tendances liées aux contenus, aux genres et aux périodes de production.  
 **Technologies :** Python, Pandas, Matplotlib  
-[Voir le projet](https://github.com/nelson227/nom_du_repo)
+[Voir le projet](https://nelson227.github.io/Interactive-Geospatial-Mapping-using-OpenStreetMap-and-SQLite/
+)
 
 ---
 
