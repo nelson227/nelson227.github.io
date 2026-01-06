@@ -40,17 +40,21 @@ Mes projets portent principalement sur l’exploration de données, la construct
 
 ## Projets sélectionnés
 
-### Analyse exploratoire de données – Netflix
-Analyse d’un jeu de données Netflix visant à identifier des tendances liées aux contenus, aux genres et aux périodes de production.  
-**Technologies :** Python, Pandas, Matplotlib  
+### Géocodage et visualisation de données avec OpenStreetMap
+Projet utilisant l’API OpenStreetMap (Nominatim) pour convertir des noms
+d’universités en coordonnées géographiques, stocker les résultats dans une
+base de données SQLite et visualiser les données sur une carte interactive.
+**Technologies :** Python, SQLite, OpenStreetMap API, JavaScript, OpenLayers  
 [Voir le projet](https://github.com/nelson227/Interactive-Geospatial-Mapping-using-OpenStreetMap-and-SQLite)
 
 ---
 
-### Modélisation prédictive des prix
-Construction et évaluation d’un modèle de régression à partir de données tabulaires.  
-**Technologies :** Python, Scikit-learn  
-[Voir le projet](https://github.com/nelson227/nom_du_repo)
+### Web crawler et calcul de PageRank
+Implémentation d’un web crawler permettant de collecter des pages web,
+de construire un graphe de liens stocké dans une base SQLite, puis de
+calculer itérativement l’algorithme PageRank et de visualiser le réseau.
+**Technologies :** Python, SQLite, PageRank, JavaScript, D3.js 
+[Voir le projet](https://github.com/nelson227/Web-Crawling-PageRank-Algorithm-and-Graph-Visualization-in-Python)
 
 ---
 
